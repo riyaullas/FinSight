@@ -1,0 +1,11 @@
+.venv
+.env
+.env.*
+.dev-credentials
+*.db
+*.sqlite*
+__pycache__
+*.pyc
+.pytest_cache
+.ruff_cache
+tests
